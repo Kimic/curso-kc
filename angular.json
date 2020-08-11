@@ -24,6 +24,7 @@
               "src/assets"
             ],
             "styles": [
+              "./node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -119,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "curso-kc"
+    }
+  },
+  "defaultProject": "curso-kc",
+  "cli": {
+    "analytics": "0918ab1a-fcce-40f7-a4cf-577527780149"
+  }
 }
